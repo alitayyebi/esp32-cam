@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "esp32-cam",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "46d53fd9-e048-4857-b4c0-e9ba486aaab0",
+			"database_name": "esp32-cam_database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
